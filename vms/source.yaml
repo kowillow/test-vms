@@ -7,4 +7,4 @@ spec:
   source:
     registry:
       # benchmark-operator image
-      url: "http://quay-operator.openshift-operators.svc.cluster.local:7071/rhel9/rhel-guest-image:9.2-817"
+      url: "http://http://insecure-ocp-registry-quay.apps.openshift01.sandbox322.opentlc.com/rhel9/rhel-guest-image:9.2-817"
