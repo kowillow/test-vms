@@ -2,7 +2,7 @@
 apiVersion: kubevirt.io/v1
 kind: VirtualMachine
 metadata:
-  name: vm-1
+  name: dr-vm
 spec:
   running: true
   template:
